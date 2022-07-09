@@ -1,3 +1,7 @@
+##声明：本人修改RecordRTC录音库源代码添加新功能，只为了自己的项目可通过npm拉取包，方便线上打包，代码所有权归muaz-khan所有
+
+##: Personally modify the source code of the recording and recording library to add new additions, just for the sake of your own, which can be obtained through pm, which is convenient for packaging RT code packages. The function is owned by muaz-khan
+
 # RecordRTC.js | [Live Demo](https://www.webrtc-experiment.com/RecordRTC/)
 
 **WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording**
